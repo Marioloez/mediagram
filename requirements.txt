@@ -1,0 +1,5 @@
+telethon>=1.36
+typer>=0.12
+rich>=13.7
+python-dotenv>=1.0
+cryptg>=0.4

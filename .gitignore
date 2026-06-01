@@ -1,0 +1,13 @@
+.env
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+.venv/
+venv/
+downloads/
+.vscode/
+.idea/
+
+# Internal docs — not for the public repo
+ARCHITECTURE.md
